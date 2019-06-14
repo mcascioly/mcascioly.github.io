@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
-email:
+title: MCA Science Olympiad
+email: sciolymca@gmail.com
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://www.mcascioly.com
 author:
   name:
   twitter:
-  picture:
+  picture: 
 twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+github_username: mcascioly
+logo: https://avatars1.githubusercontent.com/u/51838438?s=400&u=abc72b2a55b0585d9daf61cfd2bb2397ab625de6&v=4
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
