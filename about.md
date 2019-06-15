@@ -20,7 +20,7 @@ For any questions, feel free to email us at <sciolymca@gmail.com>!
 
 
 <div style = "width: 100%; padding-top: 20px; display: flex; flex-direction: row">
-    <div style = "flex-grow: 1; text-align: center;"><a href="http://www.njscienceolympiad.org/" class="btn">NJ Science Olympiad Website</a></div>
-    <div style = "flex-grow: 1; text-align: center;"><a href="https://www.soinc.org/" class="btn">National Science Olympiad Website</a></div>
+    <div style = "flex-grow: 1; text-align: center;"><a href="http://www.njscienceolympiad.org/" class="btn" target="_blank">NJ Science Olympiad Website</a></div>
+    <div style = "flex-grow: 1; text-align: center;"><a href="https://www.soinc.org/" class="btn" target="_blank">National Science Olympiad Website</a></div>
 </div>
 
