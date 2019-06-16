@@ -1,8 +1,8 @@
 ---
 title: "MCA At UCC Regionals '19"
 excerpt: 
-thumbnail: assets\images\ucc_regionals_2019.jpg
-image: assets\images\nj_states_2019.jpg
+thumbnail: ../assets/images/ucc_regionals_2019.jpg
+image: ../assets/images/nj_states_2019.jpg
 ---
 
 ## 6th Place Overall - Our First Trophy!
