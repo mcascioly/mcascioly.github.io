@@ -1,14 +1,13 @@
 ---
 layout: about
 title: About
-
 ---
 
 <div style = "width: 100%; padding-bottom: 40px;">
-    <img src ="/assets/images/kevin_amey2.jpg" style = " border-radius: 15px;">
+    <img src ="/assets/images/kevin_amey.jpg" style = " border-radius: 15px;">
 </div>
 
-Welcome!
+### Welcome!
 
 This is the official website for the Division C Science Olympiad Team of the Middlesex County Academy for Science, Mathematics, and Engineering Technologies. General information, updates, pictures, and sponsors will all be featured here.
 

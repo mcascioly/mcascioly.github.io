@@ -1,6 +1,5 @@
 ---
-layout: page
+layout: home
 image: /assets/images/websitebanner_1.png
-title: Overview
 ---
 
